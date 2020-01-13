@@ -1,3 +1,22 @@
+<h1>Important!</h1>
+<p>
+This Repo was permanently <b>archived</b> in 2019/10/01. <b>BUT this is not the end！</b><br>
+  </p>
+  <p>
+With almost 3 months together in joint development, the project has been reborn once more! <br>
+We convert our website from static to dynamic such that everyone can submit a challenge/competition on their own interests. And more functions are coming. Please look forward to it!
+</p>
+<p>
+Click <a href="https://www.datascicamp.com">HERE</a> for our new website! You can also move to <a href="https://github.com/datascicamp/DataSciCamp">Welcome page</a> for more infomations.
+</p>
+
+---
+---
+- The archived README text below
+- 以下是存档的 README 原文本
+---
+---
+
 <div align="center">
   <a href="./favicon.ico">
     <img width="30" heigth="30" src="./favicon.ico">
@@ -8,7 +27,7 @@
   <p>
       <li>A collection of popular Data Science Challenges/Competitions</li>
       <li>Countdown timers to keep track of the entry deadlines.</li>
-    <br><a href="https://iphysresearch.github.io/DataSciComp/">DataSciComp</a>
+    <br><a href="https://www.datascicamp.com">DataSciCamp.com</a>
   <p>
 </div>
 
@@ -16,6 +35,8 @@
 > Please *Feel free to star* ⭐ this repo! or open an issue with your suggestions and requests!
 >
 > 欢迎关注微博更新：[IPhysResearch](http://weibo.com/IPhysresearch) . Collected by 土豆 (Herb) in spare time.
+>
+> 联系网站开发者：[LeonTian 的知乎主页](https://www.zhihu.com/people/winchester-26/activities) . LeonTian (Chief Designer and Developer of DataSciCamp).
 
 ---
 
